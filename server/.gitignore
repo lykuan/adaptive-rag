@@ -1,0 +1,8 @@
+__pycache__
+Scripts
+packages
+Lib
+.idea
+include
+.env
+server/index.py
